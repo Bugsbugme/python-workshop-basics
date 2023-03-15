@@ -4,6 +4,6 @@
 
 ### 1. Data Types and Variables
 
-> #### [Data Types](variables_and_data-types/data_types.py)
+> #### [Data Types](01_variables_and_data-types/data_types.md)
 >
-> #### [Variables](variables_and_data-types/variables.py)
+> #### [Variables](01_variables_and_data-types/variables.md)
